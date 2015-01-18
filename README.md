@@ -1,0 +1,2 @@
+# responsive-image-js
+responsive-image-js is a Javascript code snippet that allows you make your images automagically responsive by dynamically resizing images to any page or block level element. The image will automatically load with the best size to fit the page/element. This Javascript can be used with cloudimage.io to make your image responsive and be delivered super fast via cloudimage.io content delivery network.
